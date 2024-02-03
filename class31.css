@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+}
+.borderr{
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+}
